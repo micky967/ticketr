@@ -5,7 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       { hostname: "striped-grouse-591.convex.cloud", protocol: "https"},
-      { hostname: "dashboard.convex.dev/t/micky967/ticketr-9eadf/graceful-basilisk-414/files", protocol: "https"},
+      { hostname: "graceful-basilisk-414.convex.cloud", protocol: "https"},
     ],
   },
     eslint: {
